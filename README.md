@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nihal Rawat i.e. aestheticoder
 - 👀 I’m interested in Competitive Programming, Web Development and Machine Learning
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m currently learning backend development
 - 📫 Reach me at nihalrawat395@gmail.com
 
 <!---
